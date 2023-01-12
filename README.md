@@ -23,6 +23,7 @@ Setelah itu buka di text editor dan jalankan melalui terminal dengan mengetik py
 - Dokumentasi PDF :
 https://drive.google.com/file/d/18J2h-tGEodiwuWQp8gzbtE2NmIMU-WvP/view?usp=share_link
 
-
+link youtube :
+https://youtu.be/83tIsciNqEk
 
 Sekian Terima Kasih
